@@ -59,5 +59,6 @@ task installReact(type: Exec) {
 	}
 }<br>
 을 적어준다.
-8.spring boot서버를 가동하고 8080포트로 들어가서 reactjs 화면이 나온다면
+<br>
+8.spring boot서버를 가동하고 8080포트로 들어가서 reactjs 화면이 나온다면 성공
 
